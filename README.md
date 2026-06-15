@@ -1,4 +1,4 @@
-# PRODIGY_WD_01 - Interactive Navigation Menu  
+#  Interactive Navigation Menu  
 
 This project is part of my **Web Development Internship at Prodigy InfoTech**.  
 It showcases an **interactive navigation menu** built using **HTML, CSS, and JavaScript** with hover and scroll effects.  
